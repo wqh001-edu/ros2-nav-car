@@ -7,10 +7,13 @@
 
 ## 🎬 完整实机运行效果演示 (System Demo & Performance)
 
-### 1. 实机中控与联调演示画面
+### 1. 自主导航与动态避障演示 (Dynamic Navigation & Obstacle Avoidance)
+![自主导航与局部避障仿真运行](docs/images/navigation_demo.gif)
+
+### 2. 车载交互中控与高保真 SLAM 建图 (HMI Dashboard & SLAM)
 ![系统实机联调与车载中控界面](docs/images/demo_system.png)
 
-### 2. 核心性能实测指标 (Benchmark Data)
+### 3. 核心性能实测指标 (Benchmark Data)
 在桌面与实地动态巡航测试中，系统各层表现出色：
 
 | 性能维度 | 实测数据 | 架构优势说明 |
